@@ -1,0 +1,6 @@
+streamlit
+pickle
+re
+PyPDF2
+io
+base64

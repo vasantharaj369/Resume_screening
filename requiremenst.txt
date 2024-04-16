@@ -4,3 +4,4 @@ re
 PyPDF2
 io
 base64
+scikit-learn

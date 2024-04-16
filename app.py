@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import re
 import io
+import scikit-learn
 import base64
 
 def get_base64(bin_file):

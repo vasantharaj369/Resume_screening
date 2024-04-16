@@ -1,7 +1,6 @@
 import streamlit as st
 import pickle
 import re
-import PyPDF2
 import io
 import base64
 
